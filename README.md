@@ -4,7 +4,7 @@
 
 <p style="font-family: Fira Code">My name is Carlise, and I am</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F6B8D&width=435&height=30&lines=a+Biomedical+Infomatics+student;a+back-end+programmer;a+cybersecurity+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F6B8D&width=435&height=30&lines=a+Biomedical+Informatics+student;a+back-end+programmer;a+cybersecurity+enthusiast)](https://git.io/typing-svg)
 
 <h2>Technologies</h2>
 <p align="center">
