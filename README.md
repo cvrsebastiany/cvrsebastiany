@@ -13,6 +13,43 @@
   </a>
 </p>
 
+<h2>About Me</h2>
+
+```php
+<?php
+
+class Carlise
+{
+    public string $username = "cvrsebastiany";
+    public string $name = "Carlise VR Sebastiany";
+    public string $education = "Biomedical Informatics Student";
+    public string $role = "Junior Backend Developer | PHP & Laravel";
+    public string $futureAmbitions = "Full Stack Developer | Cybersecurity Specialist";
+
+    public array $about = [
+        "Cybersecurity - Exploring Digital Forensics, Cryptography, Offensive Security and DevSecOps",
+        "Backend - Building and learning with PHP and Laravel",
+        "Architecture - Studying Docker, REST APIs, and System Design",
+    ];
+
+    public array $stack = [
+        "backend" => ["PHP", "Laravel",],
+        "database" => ["MySQL", "Oracle Database", "PostgreSQL",],
+        "devops" => ["Docker", "Linux", "Azure DevOps",],
+        "frontend" => ["HTML", "CSS", "TypeScript", "React"],
+        "tools" => ["Git", "GitHub", "VS Code", "Kali Linux", "Nmap", "Wireshark",],
+    ];
+
+    public function __toString(): string
+    {
+        return "{$this->name} | {$this->role}";
+    }
+}
+
+$me = new Carlise();
+
+echo $me;
+```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1F6B8D&section=footer"/>
 
 <!---
