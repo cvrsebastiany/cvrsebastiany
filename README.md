@@ -18,7 +18,7 @@
 ```php
 <?php
 
-class Carlise
+class Me
 {
     public string $username = "cvrsebastiany";
     public string $name = "Carlise VR Sebastiany";
@@ -46,9 +46,9 @@ class Carlise
     }
 }
 
-$me = new Carlise();
+$carlise = new Me();
 
-echo $me;
+echo $carlise;
 ```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1F6B8D&section=footer"/>
 
